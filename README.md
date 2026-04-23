@@ -11,8 +11,7 @@ mimifuwaccさんが[電通大生のためのマッチングアプリを開発](h
 ## マッチングアプリ風ジョークの一覧
 ユーザー名は敬称略。順不同。
 
-- [電通大生専用マッチングアプリ](https://uec-matching.mimifuwacc.workers.dev/) - 
-mimifuwacc
+- [電通大生専用マッチングアプリ](https://uec-matching.mimifuwacc.workers.dev/) - mimifuwacc
 - [未来大生専用マッチングアプリ](https://fun-matching.vercel.app/) - まろん｡ 
 - [人類専用マッチングアプリ](https://human-matching.vercel.app/) - imaimai17468
 - [UUID 専用マッチングアプリ](https://uuid.rabbitflap.com/) - Rabbit Flap

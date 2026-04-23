@@ -19,4 +19,4 @@ mimifuwacc
 - [自認UUID専用マッチングアプリ](https://uuid-matching.pages.dev/) - ペンギン内閣
 - [埼大生専用マッチングアプリ](https://genbuhase.github.io/SaitamaUniv-Matching/) - 長谷 玄武 (Genbu Hase)
 - [文教大生専用マッチングアプリ](https://bu-matching.bu-matching-project.workers.dev/) - q1ovo1b 
-
+- [北海道情報大生専用マッチングアプリ](https://hiu-matching.supurazako.com/) - supurazako

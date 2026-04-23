@@ -15,6 +15,7 @@ mimifuwaccさんが[電通大生のためのマッチングアプリを開発](h
 mimifuwacc
 - [未来大生専用マッチングアプリ](https://fun-matching.vercel.app/) - まろん｡ 
 - [人類専用マッチングアプリ](https://human-matching.vercel.app/) - imaimai17468
+- [UUID 専用マッチングアプリ](https://uuid.rabbitflap.com/) - Rabbit Flap
 - [自認UUID専用マッチングアプリ](https://uuid-matching.pages.dev/) - ペンギン内閣
 - [埼大生専用マッチングアプリ](https://genbuhase.github.io/SaitamaUniv-Matching/) - 長谷 玄武 (Genbu Hase)
 

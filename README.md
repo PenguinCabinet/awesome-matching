@@ -1,4 +1,4 @@
-# ♥awesome-matching
+# 💌 awesome-matching
 2026年4月のトレンドで作成されたマッチングアプリ風ジョーク一覧。
 
 ## What is this?

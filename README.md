@@ -23,3 +23,4 @@ mimifuwaccさんが[電通大生のためのマッチングアプリを開発](h
 - [農工大生マッチング](https://delphyilia.github.io/tuat-matching/) - Delphyilia
 - [筑波大生特化マッチングアプリ](https://itf-matching.colk-tech.workers.dev/) - Colk-tech
 - [外大生専用マッチングアプリ](https://tufsmatching.created.app/) - KuneKune_TUFS
+- [電大マッチ](https://dendaimatch.vercel.app/) - なすおぢ
